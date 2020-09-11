@@ -22,3 +22,7 @@ div{
     padding: 10px;
     display: inline;
 }
+
+.note{
+    text-decoration: none;
+}

@@ -19,5 +19,4 @@ function countDown(){
 
 function callCountDown(){
     const call = setInterval(countDown, 1000);
-    
 }
